@@ -1,7 +1,7 @@
 # OBI – IDO Training 
 OBI: Ontology Based Interoperability –  IDO: ISO 23726-3 Industrial Data Ontology
 
-Here POSC Caesar Association develop and share material related to OBI and IDO training.
+Here POSC Caesar Association develops and shares material related to OBI and IDO training.
 
 **Objectives** of the training are:
 - Provide necessary training of modelling and subject matter experts to enable creation of modular ontologies and reference data based on ISO 23726-3 IDO
